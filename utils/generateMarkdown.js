@@ -2,7 +2,7 @@ function generateMarkdown(input) {
   return`
   <h1 align="center">${input.title}</h1>
 
-  ![badge](https://img.shields.io/badge/license-${input.license}-blue)</br>
+  ![badge](https://img.shields.io/badge/license-${input.license}-blue)<br>
 
   ## Description
   ${input.description}
@@ -23,8 +23,8 @@ function generateMarkdown(input) {
   ${input.usage}
 
   ## License
-  ![badge](https://img.shields.io/badge/license-${input.license}-blue)</br>
-This application uses the ${input.license} license.
+  ![badge](https://img.shields.io/badge/license-${input.license}-blue)<br>
+ This application uses the ${input.license} license.
 
 ## Contributing
 ${input.contributing}
@@ -32,9 +32,11 @@ ${input.contributing}
 ## Tests
 ${input.tests}
 
-##Questions
-GitHub: [${input.username}](https://github.com/${input.username})</br>
-Email: ${input.email}</br>
+## Questions
+
+GitHub: [${input.username}](https://github.com/${input.username})<br>
+<br>
+Email: ${input.email}<br>
 `;
 
 }
