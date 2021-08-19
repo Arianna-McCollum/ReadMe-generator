@@ -8,7 +8,7 @@ function userInput(){
     return inquirer.prompt([
     {
         type: "input",
-        name: "projectTitle",
+        name: "title",
         message: "What is the title of your project? ",
     },
     {
