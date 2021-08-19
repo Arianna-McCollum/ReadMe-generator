@@ -1,10 +1,10 @@
 
-  <h1 align="center">ReadMe Generator</h1>
+  <h1 align="center">Read Me Generator</h1>
 
-  ![badge](https://img.shields.io/badge/license-Mozilla-blue)<br>
+  ![badge](https://img.shields.io/badge/license-Apache-blue)<br>
 
   ## Description
-  This generator uses Node.js to create a read me file.
+  This is a read me generator that uses node.js .
 
   ## Table of Contents
   - [Description](#description)
@@ -19,20 +19,20 @@
   npm install inquirer
 
   ## Usage
-  Assignment
+  assignment
 
   ## License
-  ![badge](https://img.shields.io/badge/license-Mozilla-blue)<br>
- This application uses the Mozilla license.
+  ![badge](https://img.shields.io/badge/license-Apache-blue)<br>
+ This application uses the Apache license.
 
 ## Contributing
 Electrolion
 
 ## Tests
-No tests
+no tests
 
 ## Questions
 
 GitHub: [Electrolion](https://github.com/Electrolion)<br>
 <br>
-Email: amccollum71@gmail.com<br>
+Email: Amccollum71@gmail.com<br>
