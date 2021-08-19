@@ -1,10 +1,10 @@
 
-  <h1 align="center">Read Me Generator</h1>
+  <h1 align="center">Read Me generator</h1>
 
-  ![badge](https://img.shields.io/badge/license-Apache-blue)<br>
+  ![badge](https://img.shields.io/badge/license-GNU-blue)<br>
 
   ## Description
-  This is a read me generator
+  This project is a read me generator
 
   ## Table of Contents
   - [Description](#description)
@@ -22,8 +22,8 @@
   assignment
 
   ## License
-  ![badge](https://img.shields.io/badge/license-Apache-blue)<br>
- This application uses the Apache license.
+  ![badge](https://img.shields.io/badge/license-GNU-blue)<br>
+ This application uses the GNU license.
 
 ## Contributing
 Electrolion
