@@ -4,7 +4,7 @@
   ![badge](https://img.shields.io/badge/license-Apache-blue)<br>
 
   ## Description
-  This is a read me generator that uses node.js .
+  This is a read me generator
 
   ## Table of Contents
   - [Description](#description)
@@ -29,7 +29,7 @@
 Electrolion
 
 ## Tests
-no tests
+No tests
 
 ## Questions
 
