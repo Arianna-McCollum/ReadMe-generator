@@ -1,3 +1,5 @@
+//Read Me template
+
 function generateMarkdown(input) {
   return`
   <h1 align="center">${input.title}</h1>

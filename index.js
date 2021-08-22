@@ -1,9 +1,11 @@
+//Constants
 const fs = require("fs");
 const inquirer = require("inquirer");
 const util = require("util");
 const generateMarkdown = require("./utils/generateMarkdown.js");
 const writeFileAsync = util.promisify(fs.writeFile);
 
+//Prompts the user answers
 function userInput(){
     return inquirer.prompt([
     {
@@ -61,6 +63,7 @@ function userInput(){
     ]);
 }
 
+//Generates Read Me file with User's input
 async function init(){
     try {
         const input = await userInput();
